@@ -1,16 +1,27 @@
-### Hi there 👋
+<div align="center">
+ 
+  <h1>Hello there 👋</h1>
 
-<!--
-**max-callaghan/max-callaghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  [![Employer: WSP](https://img.shields.io/badge/Employer-WSP-red)](https://www.wsp.com)
+  
+  [![LinkedIn: Follow](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://www.linkedin.com/in/max-callaghan/)
+  
+  [![Hometown: Birmingham, UK](https://img.shields.io/badge/Hometown-Telford%2C%20UK-green)](https://goo.gl/maps/6rxNBapz34KLGCtG6)
+</div>
 
-Here are some ideas to get you started:
+## About Me
+<p align="justify">
+🌍 I'm a Digital Services Consultant, implementing Digital Construction Methodology as part WSP. Working closely with colleagues and clients to deliver value on projects, through better information management and implementation of emerging technologies in the built environment space.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧑🏼‍💻In persuit of my personal interests and delivering innovation, I am studying a Masters in Computer Science with Artificail Technology. I'm continuing to learn and broaden my skill set, to enable me to take a proative role in developing innovative solutions which deliver benefits to people and processes.
+
+🦀 As a keen learner with an appetiate for a challenge, and have found myself quite enjoying Rust! I'm open to seeing where this journey takes me and am keen to contribute where I can.
+</p>
+
+## Beyond Coding
+<p align="justify">
+📸 Outside the world of coding a Digital Construction, I enjoy photography. Exploring and Capturing the world around. This allows me to apply my technical and creative interests to exploring our natural world, both big and macro.
+
+👩‍❤️‍👨 Working closely with my wife, we share our creations and blogs through <a href="hayleighmaxphotography.co.uk">Hayleigh Max Photography</a>
+</p>
+
