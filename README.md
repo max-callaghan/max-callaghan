@@ -3,7 +3,6 @@
   <h1>Hello there 👋</h1>
 
   [![Employer: WSP](https://img.shields.io/badge/Employer-WSP-red)](https://www.wsp.com)
-  
   [![LinkedIn: Follow](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://www.linkedin.com/in/max-callaghan/)
   
   [![Hometown: Birmingham, UK](https://img.shields.io/badge/Hometown-Telford%2C%20UK-green)](https://goo.gl/maps/6rxNBapz34KLGCtG6)
